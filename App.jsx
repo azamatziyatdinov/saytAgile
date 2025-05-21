@@ -1,4 +1,3 @@
-// App.jsx
 import React, { useState } from "react";
 import { AdminLogin, AdminDashboard } from "./AdminDashboard";
 import AgileDiagnostika from "./AgileDiagnostika";
